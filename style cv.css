@@ -1,0 +1,60 @@
+main
+{
+    text-align: center;
+    background-color: chocolate;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 150px;
+    padding-bottom:38px;
+}
+body
+{
+    background: url(https://images.unsplash.com/photo-1560457079-9a6532ccb118?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80)no-repeat ;
+    background-size: 3000px;
+    background-position: center;
+
+}
+footer
+{
+    background-color: teal;
+    text-align: center;
+    color: yellow;
+    max-width: 30%;
+    vertical-align: 150px;
+    margin: auto;
+}
+h1,h2
+{
+    text-decoration: underline;
+    background-color: black;
+    color: burlywood;
+    margin: auto;
+}
+#about
+{
+    border: 20px solid chocolate;
+    border-style: outset;
+
+}
+div
+{
+    border-bottom: 10px solid chocolate;
+    border-style: double;
+}
+h1:hover 
+{
+    background-color: darkblue;
+}
+.header-img
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+h3
+{
+    text-decoration: underline;
+}
+h4
+{
+    background-color: black;
+    color: blanchedalmond;
+}
